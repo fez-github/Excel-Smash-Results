@@ -1,4 +1,4 @@
-# Excel-Smash-Results-Challonge
+# Excel-Smash-Results
 This sheet is designed to store data for fighting game tournaments, initially built for Super Smash Bros.  This is meant to keep track of a season's worth of data, storing it for further analysis.  Participation, rank, and individual rounds are all tracked in order to craft summary sheets for how players performed in each tournament, and throughout the whole season.  This sheet also holds VBA for connecting to Challonge's API and quickly gathering results.
 
 # Future Plans
