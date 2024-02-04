@@ -1,7 +1,6 @@
 Attribute VB_Name = "PF___Unique_Values"
 Public Function Unique_Values(dictionary As Object, firstCell As Range)
 'Purpose: To acquire all unique values in a range.
-'Written by: Mark Hansen
 'Last Updated: June 30 2021
 
 'Declare variables
